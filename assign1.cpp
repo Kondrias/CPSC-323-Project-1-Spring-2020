@@ -1,4 +1,4 @@
-/*Jacqueline Cardenas
+/*Jacqueline Cardenas, Daniel Pestolesi, 
 First Iteration reading and ouputting into new file
 */
 
